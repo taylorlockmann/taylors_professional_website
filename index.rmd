@@ -1,0 +1,17 @@
+---
+title: "Taylor Lockmann"
+image: "Lockmann_Portrait.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/tlockmann/"
+  - label: GitHub
+    url: "https://github.com/taylorlockmann"
+  - label: Email
+    url: "mailto:tlockmann@gmail.com"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+ 
+I am a Masters candidate at the Bren School of Environmental Science & Management, specializing in Conservation Planning with an emphasis on data science. 
+My passion is using scientific approaches to solve real-world problems, especially when it comes to using GIS and remote sensing to deepen understanding of natural disasters. 
